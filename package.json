@@ -1,6 +1,6 @@
 {
   "name": "askuala-lms-web-app-main",
-  "homepage": "https://github.com/YosephAwoke/askala-learning-mgt-web",
+  "homepage": "https://askuala-lms-web-app.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
