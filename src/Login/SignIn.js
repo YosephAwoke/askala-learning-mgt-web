@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {useEffect, useState, useRef} from 'react';
+import {useEffect, useState, } from 'react';
 
 import Button from '@mui/material/Button';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -44,10 +44,10 @@ const SignIn = () => {
     const [isSubmitClicked, setIsSubmitClicked] = useState(false);
 
     //const [{data, loading, error}] = useAxios('http://localhost:8080/api/' + roleType + '/list');
-    const [{data, loading, error}] = useAxios('https://https://askuala-lms-web-app.herokuapp.com/api/' + roleType + '/list');
+    const [{data}] = useAxios('https://https://askuala-lms-web-app.herokuapp.com/api/' + roleType + '/list');
 
 
-    let flag = false;
+    var flag = false;
 
     useEffect(() => {
 
