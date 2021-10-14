@@ -75,7 +75,6 @@ function App() {
                                 <a href="/Create">Register</a>
 
 
-
                             </div>
                         </div>
 
