@@ -17,7 +17,7 @@ import {convertPinToStars} from '../helpers/helpers';
 const ListStudents = () => {
 
 
-    const [{data, error, loading}] = useAxios("http://localhost:8080/api/studentAccount/list")
+    const [{data, error, loading}] = useAxios("https://askuala-lms-web-app.herokuapp.com/api/studentAccount/list")
     if (loading) {
         return (
             <Box sx={{width: '100%'}}>

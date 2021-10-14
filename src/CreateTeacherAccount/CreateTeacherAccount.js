@@ -49,7 +49,7 @@ const CreateTeacherAccount = () => {
 
                 if (password === confirmPassword) {
                     axios.post(
-                        "http://localhost:8080/api/teacherAccount/create",
+                        "https://askuala-lms-web-app.herokuapp.com/api/teacherAccount/create",
                         {
 
                             "firstName": firstName,

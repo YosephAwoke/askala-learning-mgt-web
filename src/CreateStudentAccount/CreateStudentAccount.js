@@ -51,7 +51,7 @@ const CreateStudentAccount = () => {
 
 
                     axios.post(
-                        "http://localhost:8080/api/studentAccount/create",
+                        "https://askuala-lms-web-app.herokuapp.com/api/studentAccount/create",
                         {
 
                             "firstName": firstName,

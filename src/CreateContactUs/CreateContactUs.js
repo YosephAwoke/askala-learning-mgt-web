@@ -50,7 +50,7 @@ const CreateContactUs = () => {
 
 
                 axios.post(
-                    "http://localhost:8080/api/contactUs/create",
+                    "https://askuala-lms-web-app.herokuapp.com/api/contactUs/create",
                     {
 
                         "fullName": fullName,
