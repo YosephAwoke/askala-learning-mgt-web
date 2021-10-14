@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/YosephAwoke/askala-learning-mgt-web/static/css/main.c61cb732.chunk.css",
-    "main.js": "/YosephAwoke/askala-learning-mgt-web/static/js/main.e033b448.chunk.js",
-    "main.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/main.e033b448.chunk.js.map",
-    "runtime-main.js": "/YosephAwoke/askala-learning-mgt-web/static/js/runtime-main.1ad14ef4.js",
-    "runtime-main.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/runtime-main.1ad14ef4.js.map",
-    "static/js/2.bf31e877.chunk.js": "/YosephAwoke/askala-learning-mgt-web/static/js/2.bf31e877.chunk.js",
-    "static/js/2.bf31e877.chunk.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/2.bf31e877.chunk.js.map",
-    "static/js/3.5b8daa29.chunk.js": "/YosephAwoke/askala-learning-mgt-web/static/js/3.5b8daa29.chunk.js",
-    "static/js/3.5b8daa29.chunk.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/3.5b8daa29.chunk.js.map",
-    "index.html": "/YosephAwoke/askala-learning-mgt-web/index.html",
-    "static/css/main.c61cb732.chunk.css.map": "/YosephAwoke/askala-learning-mgt-web/static/css/main.c61cb732.chunk.css.map",
-    "static/js/2.bf31e877.chunk.js.LICENSE.txt": "/YosephAwoke/askala-learning-mgt-web/static/js/2.bf31e877.chunk.js.LICENSE.txt",
-    "static/media/Asset.css": "/YosephAwoke/askala-learning-mgt-web/static/media/contact us.4db95924.PNG"
+    "main.css": "/static/css/main.effba7b5.chunk.css",
+    "main.js": "/static/js/main.e033b448.chunk.js",
+    "main.js.map": "/static/js/main.e033b448.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.392358c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.392358c2.js.map",
+    "static/js/2.bf31e877.chunk.js": "/static/js/2.bf31e877.chunk.js",
+    "static/js/2.bf31e877.chunk.js.map": "/static/js/2.bf31e877.chunk.js.map",
+    "static/js/3.5b8daa29.chunk.js": "/static/js/3.5b8daa29.chunk.js",
+    "static/js/3.5b8daa29.chunk.js.map": "/static/js/3.5b8daa29.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.effba7b5.chunk.css.map": "/static/css/main.effba7b5.chunk.css.map",
+    "static/js/2.bf31e877.chunk.js.LICENSE.txt": "/static/js/2.bf31e877.chunk.js.LICENSE.txt",
+    "static/media/Asset.css": "/static/media/contact us.4db95924.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ad14ef4.js",
+    "static/js/runtime-main.392358c2.js",
     "static/js/2.bf31e877.chunk.js",
-    "static/css/main.c61cb732.chunk.css",
+    "static/css/main.effba7b5.chunk.css",
     "static/js/main.e033b448.chunk.js"
   ]
 }
