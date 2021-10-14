@@ -6,7 +6,6 @@ import axios from "axios";
 import {Router} from "@mui/icons-material";
 import {Route} from "react-router-dom";
 import ListStudents from "../ListStudents/ListStudents";
-import thanks from "../Thanks/thanks";
 import {Box} from "@mui/material";
 import {makeStyles} from "@mui/styles";
 import {useHistory} from "react-router";
@@ -28,7 +27,6 @@ const useStyles = makeStyles(
 
         },
 
-
     }));
 
 function ClassList() {
@@ -36,7 +34,6 @@ function ClassList() {
 }
 
 const CreateContactUs = () => {
-    let history = useHistory();
 
     const classes = useStyles();
     const [fullName, setFullName] = useState('');

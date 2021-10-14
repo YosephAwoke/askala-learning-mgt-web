@@ -27,7 +27,7 @@ const useStyles = makeStyles(
     }));
 
 const CreateTeacherAccount = () => {
-    let history = useHistory();
+
 
     const classes = useStyles();
     const [firstName, setFirstName] = useState('');

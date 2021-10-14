@@ -29,7 +29,7 @@ const useStyles = makeStyles(
     }));
 
 const CreateStudentAccount = () => {
-    let history = useHistory();
+
     const classes = useStyles();
     const [firstName, setFirstName] = useState('');
     const [middleName, setMiddleName] = useState('');
