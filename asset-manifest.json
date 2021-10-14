@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/YosephAwoke/askala-learning-mgt-web/static/css/main.0683e3cb.chunk.css",
+    "main.js": "/YosephAwoke/askala-learning-mgt-web/static/js/main.98d842d7.chunk.js",
+    "main.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/main.98d842d7.chunk.js.map",
+    "runtime-main.js": "/YosephAwoke/askala-learning-mgt-web/static/js/runtime-main.ce69242b.js",
+    "runtime-main.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/runtime-main.ce69242b.js.map",
+    "static/js/2.0f114390.chunk.js": "/YosephAwoke/askala-learning-mgt-web/static/js/2.0f114390.chunk.js",
+    "static/js/2.0f114390.chunk.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/2.0f114390.chunk.js.map",
+    "static/js/3.26704567.chunk.js": "/YosephAwoke/askala-learning-mgt-web/static/js/3.26704567.chunk.js",
+    "static/js/3.26704567.chunk.js.map": "/YosephAwoke/askala-learning-mgt-web/static/js/3.26704567.chunk.js.map",
+    "index.html": "/YosephAwoke/askala-learning-mgt-web/index.html",
+    "static/css/main.0683e3cb.chunk.css.map": "/YosephAwoke/askala-learning-mgt-web/static/css/main.0683e3cb.chunk.css.map",
+    "static/js/2.0f114390.chunk.js.LICENSE.txt": "/YosephAwoke/askala-learning-mgt-web/static/js/2.0f114390.chunk.js.LICENSE.txt",
+    "static/media/Asset.css": "/YosephAwoke/askala-learning-mgt-web/static/media/contact us.4db95924.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce69242b.js",
+    "static/js/2.0f114390.chunk.js",
+    "static/css/main.0683e3cb.chunk.css",
+    "static/js/main.98d842d7.chunk.js"
+  ]
+}
