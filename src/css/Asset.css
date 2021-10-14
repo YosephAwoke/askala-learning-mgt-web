@@ -1,0 +1,335 @@
+
+.bg-img {
+    /* The image used */
+    background-image: url("background.PNG");
+
+    position: absolute;
+
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+
+
+    background-size: 100%;
+
+    /* Needed to position the navbar */
+
+}
+
+.bg-img3 {
+    /* The image used */
+    background-image: url("contact us.PNG");
+
+
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+
+
+    background-size: 100%;
+
+    /* Needed to position the navbar */
+
+}
+
+.bg-img2 {
+    /* The image used */
+    background-image: url("bg2.PNG");
+
+    position: absolute;
+
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+
+
+    background-size: 100%;
+
+    /* Needed to position the navbar */
+
+}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.container {
+
+
+    margin-top: 80px;
+    margin-left: 500px;
+    width: auto;
+    height: auto;
+}
+
+/* The navbar */
+
+/* Navbar links */
+.topnav a {
+    float: left;
+    margin-top: 80px;
+    font-family: Ancillary;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #5B0A36;
+    text-align: revert;
+    padding: 4px 40px;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.topnav a:hover {
+    text-decoration: underline;
+}
+
+
+.slogan1 {
+    line-height: 15%;
+    left: 10px;
+    margin-top: 450px;
+    margin-left: 300px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #5B0A36;
+    font-size: 60px;
+    height: auto;
+}
+
+.slogan11 {
+    line-height: 15%;
+    left: 10px;
+    margin-top: 450px;
+    margin-left: 300px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #5B0A36;
+    font-size: 60px;
+    height: auto;
+}
+
+.slogan12 {
+    line-height: 15%;
+    left: 10px;
+    margin-top: 350px;
+    margin-left: 300px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #5B0A36;
+    font-size: 60px;
+    height: auto;
+}
+
+.slogan2 {
+
+    line-height: 10%;
+    margin-left: 340px;
+    font-family: sans-serif;
+    color: #5B0A36;
+    font-size: 60px;
+
+}
+
+.slogan3 {
+    line-height: 10%;
+    margin-left: 390px;
+
+    font-family: sans-serif;
+    color: #514F50;
+    font-size: 50px;
+
+}
+
+.register {
+
+    margin-top: 0px;
+    margin-left: 400px;
+    width: auto;
+    height: 15px;
+}
+
+.register1 {
+
+    margin-top: 250px;
+    margin-left: 400px;
+    width: auto;
+    height: 25px;
+}
+
+.register2 {
+
+    margin-top: 250px;
+    margin-left: 600px;
+    width: auto;
+    height: 25px;
+    font-size: xxx-large;
+    font-family: Adventure;
+
+}
+
+.register3 {
+
+    margin-top: 50px;
+    margin-left: 600px;
+    width: auto;
+    height: 25px;
+    font-size: xxx-large;
+    color: #5B0A36;
+    font-family: "Gill Sans Ultra Bold";
+}
+
+.nav a {
+    float: left;
+    margin-top: 10px;
+    font-family: Ancillary;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    color: #5B0A36;
+    background-color: white;
+    text-align: revert;
+    border: 1px solid #5B0A36;
+    padding: 4px 40px;
+    text-decoration: none;
+    font-size: 30px;
+    position: relative;
+}
+
+.nav a:hover {
+    background-color: #5B0A36;
+    color: white;
+    text-decoration: none;
+
+}
+
+.createAcc {
+    line-height: 15%;
+
+    margin-top: 150px;
+    margin-left: 50px;
+
+    font-family: sans-serif;
+    color: #5B0A36;
+    font-size: 40px;
+
+}
+
+.connect {
+    line-height: 15%;
+
+    margin-top: 240px;
+    margin-left: 100px;
+
+    font-family: sans-serif;
+    color: #5B0A36;
+    font-size: 40px;
+
+}
+
+.dateof {
+    line-height: 15%;
+    margin-top: 5px;
+    margin-left: 900px;
+    font-family: sans-serif;
+    color: black;
+    font-size: 14px;
+
+}
+
+.formdecoration {
+    line-height: 10%;
+    margin-left: 900px;
+    margin-right: 800px;
+    margin-top: 10px;
+    color: #5B0A36;
+    background-color: aliceblue;
+    border-color: #e7ffff;
+    stroke-width: 20px;
+
+}
+.formdecoration2 {
+    line-height: 10%;
+    margin-left: 900px;
+    margin-right: 560px;
+    margin-top: 10px;
+    color: #5B0A36;
+    background-color: aliceblue;
+    border-color: #e7ffff;
+    stroke-width: 20px;
+
+}
+
+.galleryCon {
+    margin: 0 auto;
+}
+
+.gallery {
+    margin: 0 15px 25px 35px;
+    float: left;
+    width: 28%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title {
+    padding: 15px;
+    font-weight: bold;
+}
+
+.description {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 45px;
+}
+
+.reg a {
+    float: left;
+    margin-top: 10px;
+    font-family: Ancillary;
+    margin-left: 1000px;
+    margin-right: 1000px;
+    border-radius: 10px;
+    color: white;
+    background-color: #5B0A36;
+    text-align: revert;
+    border: 1px solid #5B0A36;
+    padding: 4px 40px;
+    text-decoration: none;
+    font-size: 30px;
+    position: relative;
+}
+
+.reg a:hover {
+    background-color: white;
+    color: #5B0A36;
+    text-decoration: none;
+
+}
+
+.card {
+    align-content: flex-start;
+    line-height: 15%;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 130px;
+    color: #5B0A36;
+
+}
+
+.card2 {
+    align-content: flex-start;
+    line-height: 15%;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 30px;
+    color: #5B0A36;
+
+}
