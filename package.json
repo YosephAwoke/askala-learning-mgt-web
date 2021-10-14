@@ -74,6 +74,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "@mui/core": "^5.0.0-alpha.49",
     "react-datepicker": "^4.2.1",
     "react-moment": "^1.1.1",
