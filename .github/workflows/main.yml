@@ -41,7 +41,7 @@ jobs:
         env:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+          github_token: ${{ secrets.ACTIONS_DEPLOY }}
           heroku_app_name: "act-airline-reservation-web"
           heroku_email: "yosephawoke8@gmail.com"
           repository: ${{ github.repository }}
